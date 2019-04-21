@@ -1,1 +1,1 @@
-This is the collection of Python3 language programs that i have been doing since my second year of B.Tech.
+This is the collection of solutions to various problems done, using Python3 language, in my 2nd and 3rd year of B.Tech.
